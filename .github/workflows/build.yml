@@ -6,7 +6,7 @@
 #  ➜ Gratuit tant que ton repo est PUBLIC.
 #
 #  POUR RÉUTILISER SUR UN AUTRE PROJET : change juste les 2 lignes
-#  APP_NAME et ENTRY ci-dessous. Rien d'autre à toucher.
+#  APP_NAME et ENTRY ci-dessous. Rien d'autre à toucher. 
 # ============================================================
 
 name: Build setups (Windows / macOS / Linux)
